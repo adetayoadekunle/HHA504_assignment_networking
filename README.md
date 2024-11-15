@@ -40,6 +40,8 @@ Explore the networking features in Azure and Google Cloud Platform (GCP), focusi
 
 ## GCP
 
+<img width="735" alt="Firewall rule details gcp" src="https://github.com/user-attachments/assets/1ccd806a-4581-43e3-9307-7d5868119e55">
+
 <img width="339" alt="Firewall rules for public acces to flask application gcp" src="https://github.com/user-attachments/assets/0d2a8c6b-e5a0-4e26-a919-704bdfae1e8d">
 
 ## Azure
